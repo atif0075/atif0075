@@ -37,7 +37,7 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 
 - 💬 Ask me about **vue, firebase, tailwindcss**
 
-- 📫 How to reach me **chatif476@gmail.com**
+- 📫 How to reach me **atif@starzdev.com**
 
 - ⚡ Fun fact **I think I've Atelophobia**
 
