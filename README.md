@@ -31,7 +31,7 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 <br/>  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atif0075" alt="atif0075" /></a> </p>
 
-- 🔭 I’m currently working on **Quasar,Vue,Tailwindcss,TS**
+- 🔭 I’m currently working on **Quasar,Vue.js,Tailwindcss,TS,Svelte.js**
 
 - 👨‍💻 All of my projects are available at [https://websengineer.me/](https://websengineer.me/)
 
