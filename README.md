@@ -55,7 +55,7 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0075&show_icons=true&locale=en" alt="atif0075" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif0075&" alt="atif0075" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif0075&" alt="atif0075ALT" /></p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0075&label=Profile%20views&color=0e75b6&style=flat" alt="atif0075" /> </p>
