@@ -63,5 +63,6 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 <br>
 <h2>On Spotify</h2>
 <div align="center">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ntcfs2fywl24ljufwgalai66ca&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
-</div>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</div>  
+
