@@ -14,8 +14,11 @@
 <a href="https://stackoverflow.com/users/13381912/ch-atif" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>
 
+</div>
+ <div align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</div>  
 ## Glad to see you here!  
 Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I help designers, small agencies and businesses bring their ideas to life. Powered by Figma, VS Code and Coffee ☕. I can turn your requirements into interactable visuals on time ⏰ and on budget 💰.I design beautiful and powerful websites for modern businesses. Any business today needs a website 🌐 that wins customers’ trust and helps you do your business well. I make sure your website is up to that standard. I am well familiar with following skills.
  <b>Javascript</b>,
@@ -59,10 +62,5 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0075&label=Profile%20views&color=0e75b6&style=flat" alt="atif0075" /> </p>
-<br>
-<br>
-<h2>On Spotify</h2>
-<div align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</div>  
+
 
