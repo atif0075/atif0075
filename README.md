@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Atif</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0075&label=Profile%20views&color=0e75b6&style=flat" alt="atif0075" /> </p>
+
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="150px" width ="150px"></p>
+
+
+<h1 align="center">Hi 👋, I'm Atif <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <div align="center">
@@ -31,7 +36,7 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 <b>Tailwindcss</b>,
 
 <br/>  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atif0075" alt="atif0075" /></a> </p>
+
 
 - 🔭 I’m currently working on **Quasar,Vue.js,Tailwindcss,TS,Svelte.js**
 
@@ -68,11 +73,7 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 <br>
 <h2>Other Stats</h2>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif0075&show_icons=true&locale=en&layout=compact" alt="atif0075" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=atif0075&bg_color=f6f8fa&color=a8a8a8&line=d4d4d4&point=999999&area=true&hide_border=true" width="100%"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif0075&show_icons=true&locale=en" alt="atif0075" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif0075&" alt="atif0075ALT" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=atif0075&hide_border=true&fire=969696&ring=969696&currStreakLabel=969696" alt="atif0075" /></p>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0075&label=Profile%20views&color=0e75b6&style=flat" alt="atif0075" /> </p>
