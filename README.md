@@ -24,7 +24,8 @@
  <div align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </div>  
-## Glad to see you here!  
+<h2> Glad to see you here!  </h2>
+<br/>
 Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I help designers, small agencies and businesses bring their ideas to life. Powered by Figma, VS Code and Coffee ☕. I can turn your requirements into interactable visuals on time ⏰ and on budget 💰.I design beautiful and powerful websites for modern businesses. Any business today needs a website 🌐 that wins customers’ trust and helps you do your business well. I make sure your website is up to that standard. I am well familiar with following skills.
  <b>Javascript</b>,
 <b>Typescript</b>,
