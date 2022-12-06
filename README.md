@@ -73,8 +73,6 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 <br>
 <h2>Other Stats</h2>
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=atif0075&bg_color=f6f8fa&color=a8a8a8&line=d4d4d4&point=999999&area=true&hide_border=true" width="100%"/>
-
 <p>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=atif0075&hide_border=true&fire=969696&ring=969696&currStreakLabel=969696" alt="atif0075" />
 </p>
