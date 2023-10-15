@@ -25,26 +25,23 @@
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </div>  
 <h2> Glad to see you here!  </h2>
-Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I help designers, small agencies and businesses bring their ideas to life. Powered by Figma, VS Code and Coffee ☕. I can turn your requirements into interactable visuals on time ⏰ and on budget 💰.I design beautiful and powerful websites for modern businesses. Any business today needs a website 🌐 that wins customers’ trust and helps you do your business well. I make sure your website is up to that standard. I am well familiar with following skills.
- <b>Javascript</b>,
-<b>Typescript</b>,
-<b>Firebase</b>,
-<b>Vue Js</b>,
-<b>Nuxt Js</b>,
-<b>Electron Js</b>,
-<b>Sass/Scss</b>,
-<b>Tailwindcss</b>,
+Hi there, I am Atif, a passionate web developer from Pakistan with a Bachelor's degree in Software Engineering. For the past year, I've worked as a Frontend Web Developer at H2people, a groundbreaking job platform that transforms recruitment with AI, chatbots, and live streaming.
+<br/>  
+In addition to my full-time role, I'm also a Top-Rated Freelance Web Engineer on Upwork, where I've delivered quality solutions to clients around the globe, using Vue 3, React, Svelte, Nuxt 3, Typescript, and Tailwind CSS. As a dedicated problem solver and continuous learner, I'm committed to refining my craft and staying at the forefront of web development innovation.
+<br/>  
+
+Beyond coding, I'm also an advocate for knowledge-sharing and community-building. I enjoy contributing to Open-Source projects, writing insightful articles, and engaging in meaningful discussions that empower aspiring developers.
 
 <br/>  
 
 
-- 🔭 I’m currently working on **Quasar,Vue.js,Tailwindcss,TS,Svelte.js**
+- 🔭 I’m currently working on **Framework7,Vue.js,Tailwindcss,TypeScript,Svelte.js**
 
 - 👨‍💻 My portfolio [http://connectsatif.vercel.app/](http://connectsatif.vercel.app/)
 
-- 💬 Ask me about **vue, firebase, tailwindcss**
+- 💬 Ask me about **Vue.js, Firebase, Tailwindcss**
 
-- 📫 How to reach me **atif@starzdev.com**
+- 📫 How to reach me **chatif476@gmail.com**
 
 - ⚡ Fun fact **I think I've Atelophobia**
 
@@ -64,8 +61,8 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/> </a>
+<a href="https://framework7.io/" target="_blank" rel="noreferrer"> <img src="https://framework7.io/i/logo.svg" alt="vitejs" width="40" height="40"/> </a>
  </p>
 
 </div>
