@@ -40,7 +40,7 @@ Hi there 👋. I am Atif 😍, a web developer based in Faisalabad, Pakistan. I 
 
 - 🔭 I’m currently working on **Quasar,Vue.js,Tailwindcss,TS,Svelte.js**
 
-- 👨‍💻 My portfolio [https://atifdev.me/](https://atifdev.me/)
+- 👨‍💻 My portfolio [http://connectsatif.vercel.app/](http://connectsatif.vercel.app/)
 
 - 💬 Ask me about **vue, firebase, tailwindcss**
 
