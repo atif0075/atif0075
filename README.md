@@ -31,10 +31,7 @@ In addition to my full-time role, I'm also a Top-Rated Freelance Web Engineer on
 <br/>  
 
 Beyond coding, I'm also an advocate for knowledge-sharing and community-building. I enjoy contributing to Open-Source projects, writing insightful articles, and engaging in meaningful discussions that empower aspiring developers.
-
 <br/>  
-
-
 - 🔭 I’m currently working on **Framework7,Vue.js,Tailwindcss,TypeScript,Svelte.js**
 
 - 👨‍💻 My portfolio [http://connectsatif.vercel.app/](http://connectsatif.vercel.app/)
