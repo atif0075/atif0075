@@ -1,73 +1,92 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atif0075&label=Profile%20views&color=0e75b6&style=flat" alt="atif0075" /> </p>
-<h1 align="center">Hi 👋, I'm Atif <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<div align="center">
-<a href="https://github.com/atif0075" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/atif0075" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/atif0075" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/13381912/ch-atif" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-
-</div>
- <div align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</div>  
-<h2> Glad to see you here!  </h2>
-Hi there, I am Atif, a passionate web developer from Pakistan with a Bachelor's degree in Software Engineering. For the past year, I've worked as a Frontend Web Developer at H2people, a groundbreaking job platform that transforms recruitment with AI, chatbots, and live streaming.
-<br/>  
-In addition to my full-time role, I'm also a Top-Rated Freelance Web Engineer on Upwork, where I've delivered quality solutions to clients around the globe, using Vue 3, React, Svelte, Nuxt 3, Typescript, and Tailwind CSS. As a dedicated problem solver and continuous learner, I'm committed to refining my craft and staying at the forefront of web development innovation.
-<br/>  
-
-Beyond coding, I'm also an advocate for knowledge-sharing and community-building. I enjoy contributing to Open-Source projects, writing insightful articles, and engaging in meaningful discussions that empower aspiring developers.
-<br/>  
-- 🔭 I’m currently working on **Framework7,Vue.js,Tailwindcss,TypeScript,Svelte.js**
-
-- 👨‍💻 My portfolio [http://connectsatif.vercel.app/](http://connectsatif.vercel.app/)
-
-- 💬 Ask me about **Vue.js, Firebase, Tailwindcss**
-
-- 📫 How to reach me **chatif476@gmail.com**
-
-- ⚡ Fun fact **I think I've Atelophobia**
-
-<h3 align="center">Languages and Tools:</h3>
-<div  align="center">
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://v2.vuejs.org/images/logo.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/> </a>
-<a href="https://framework7.io/" target="_blank" rel="noreferrer"> <img src="https://framework7.io/i/logo.svg" alt="vitejs" width="40" height="40"/> </a>
- </p>
-
-</div>
-<br>
-<br>
-<h2>Other Stats</h2>
-<div align="center">
-<p>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=atif0075&hide_border=true&fire=969696&ring=969696&currStreakLabel=969696" alt="atif0075" />
+  <img src="https://komarev.com/ghpvc/?username=atif0075&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<h1 align="center">
+  Hi there! I'm Atif 👋 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" alt="Waving hand animation">
+</h1>
+
+<h3 align="center">Modern UI Architect | Frontend Engineer</h3>
+
+<div align="center">
+  <a href="https://github.com/atif0075">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/atif0075">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://dev.to/atif0075">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="https://stackoverflow.com/users/13381912/ch-atif">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee atif0075"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee atif0075" /></a><a href="https://ko-fi.com/ko-fi.com atif0075"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com atif0075" /></a></p><br><br>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
+</div>
 
+## About Me 🚀
+
+I'm a Software Engineering graduate and passionate web developer with a focus on creating innovative, user-centric solutions. I love to work with modern web technologies and frameworks to build scalable, performant, and accessible web applications. I'm also a tech enthusiast who loves to explore new technologies and contribute to the open-source community.
+
+🌟 **Professional Highlights:**
+- Frontend Web Developer with 3+ years of experience
+- Top-Rated Freelance Web Engineer on Upwork
+- Open-source contributor and community builder
+- Specialized in Vue 3, React, Nuxt 3, Svelte TypeScript, and Tailwind CSS
+
+## Current Focus 💡
+
+- 🔭 Working with **Framework7, Nuxt.js, TailwindCSS, TypeScript, Svelte.js**
+- 👨‍💻 Portfolio: [hiatif.vercel.app](https://hiatif.vervel.app//)
+- 📫 Reach me at: **chatif476@gmail.com**
+- ⚡ Fun fact: I might have Atelophobia (the fear of imperfection), which drives me to constantly improve!
+
+## Tech Stack 🛠
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+### Tools & Services
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=atif0075&hide_border=true&fire=969696&ring=969696&currStreakLabel=969696" alt="GitHub streak stats">
+</div>
+
+## Support My Work ☕
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/atif0075">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://ko-fi.com/atif0075">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi">
+  </a>
+</p>
