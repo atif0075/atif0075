@@ -27,7 +27,7 @@
 
 ## About Me 🚀
 
-I'm a Software Engineering graduate and passionate web developer with a focus on creating innovative, user-centric solutions. I love to work with modern web technologies and frameworks to build scalable, performant, and accessible web applications. I'm also a tech enthusiast who loves to explore new technologies and contribute to the open-source community.
+I'm a Software Engineering graduate and passionate web developer focusing on creating innovative, user-centric solutions. I love to work with modern web technologies and frameworks to build scalable, performant, and accessible web applications. I'm also a tech enthusiast who loves to explore new technologies and contribute to the open-source community.
 
 🌟 **Professional Highlights:**
 - Frontend Web Developer with 3+ years of experience
@@ -38,9 +38,9 @@ I'm a Software Engineering graduate and passionate web developer with a focus on
 ## Current Focus 💡
 
 - 🔭 Working with **Framework7, Nuxt.js, TailwindCSS, TypeScript, Svelte.js**
-- 👨‍💻 Portfolio: [hiatif.vercel.app](https://hiatif.vervel.app//)
+- 👨‍💻 Portfolio: [hiatif.vercel.app](https://hiatif.vercel.app//)
 - 📫 Reach me at: **chatif476@gmail.com**
-- ⚡ Fun fact: I might have Atelophobia (the fear of imperfection), which drives me to constantly improve!
+- ⚡ Fun fact: I might have Atelophobia (the fear of imperfection), which drives me to improve constantly!
 
 ## Tech Stack 🛠
 
