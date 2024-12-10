@@ -24,9 +24,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ntcfs2fywl24ljufwgalai66ca&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
-</div>
 
 ## About Me 🚀
 
